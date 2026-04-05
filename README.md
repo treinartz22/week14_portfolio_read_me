@@ -2,7 +2,7 @@
 ## One Paragraph description/overview goes here
 
 - Acknowledgments
-- 
+  
 And optional additions
 
 - Favorite assignment/sketch
