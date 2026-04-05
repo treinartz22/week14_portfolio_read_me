@@ -5,8 +5,8 @@
 
 And optional additions
 
--- Favorite assignment/sketch
-Most interesting piece of your code and explanation for what it does.
+- Favorite assignment/sketch
+- Most interesting piece of your code and explanation for what it does.
 Difficulties, opportunities you encountered along the way.
 The toughest part was...
 
