@@ -1,26 +1,20 @@
 # Programming for the Web Portfolio
 ## One Paragraph description/overview goes here
 
-
-
+- Acknowledgments
+- 
 And optional additions
 
 - Favorite assignment/sketch
 - Most interesting piece of your code and explanation for what it does.
-Difficulties, opportunities you encountered along the way.
-The toughest part was...
+- Difficulties, opportunities you encountered along the way.
+- What you learned and/or future improvments or directions
+- Built With
+- P5js - The JavaScript editor used
+- React
+- JavaScript (ES6+)
+- Vite / other tools
+- Author
+- Inspiration, etc.
 
-What you learned and future improvments or directions
-
-Built With
-P5js - The JavaScript editor used
-React
-JavaScript (ES6+)
-(Optional) Vite / other tools
-
-Author
-
-Acknowledgments
-Hat tip to anything/anyone who helped.
-Inspiration
-etc
+[Markdown Cheatsheet]([https://www.example.com](https://www.markdownguide.org/cheat-sheet/))
