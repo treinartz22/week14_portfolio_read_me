@@ -17,4 +17,4 @@ And optional additions
 - Author
 - Inspiration, etc.
 
-[Markdown Cheatsheet](https://www.example.com](https://www.markdownguide.org/cheat-sheet/))
+[Markdown Cheatsheet](https://www.example.com](https://www.markdownguide.org/cheat-sheet/)
