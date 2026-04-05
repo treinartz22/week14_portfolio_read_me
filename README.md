@@ -1,4 +1,4 @@
-# Programming for the Web Portfolio Spring 2026
+# Programming for the Web Portfolio: Spring 2026
 ## One Paragraph description/overview goes here
 
 - Acknowledgments
