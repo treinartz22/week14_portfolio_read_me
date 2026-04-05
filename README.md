@@ -11,9 +11,9 @@ And optional additions
 - What you learned and/or future improvments or directions
 - Built With
   - P5js - The JavaScript editor used
-- React
-- JavaScript (ES6+)
-- Vite / other tools
+  - React
+  - JavaScript (ES6+)
+  - Vite / other tools
 - Author
 - Inspiration, etc.
 
