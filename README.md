@@ -1,6 +1,5 @@
 # Programming for the Web Portfolio: Spring 2026
-## One Paragraph description/overview goes here
-
+- One Paragraph description/overview goes here
 - Acknowledgments
   
 And optional additions
