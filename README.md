@@ -1,9 +1,8 @@
 # Programming for the Web Portfolio: Spring 2026
-- One Paragraph description/overview goes here
+- One paragraph description/overview goes here
 - Acknowledgments
   
-And optional additions
-
+Optional additions:
 - Favorite assignment/sketch
 - Most interesting piece of your code and explanation for what it does.
 - Difficulties, opportunities you encountered along the way.
